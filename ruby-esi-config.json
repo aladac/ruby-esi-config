@@ -1,0 +1,9 @@
+{
+  "moduleName": "ESI",
+  "gemVersion": "0.2.0",
+  "gemLicense": "MIT",
+  "gemName": "ruby-esi",
+  "gemAuthor": "Adam Ladachowski",
+  "gemAuthorEmail": "adam.ladachowski@gmail.com",
+  "gemHomepage": "https://rubygems.org/gems/ruby-esi"
+}
